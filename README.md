@@ -14,10 +14,8 @@
 - عدد الرحلات، الإنفاق الكلي، وعدد الليالي  
 - درجات الحرارة في المنطقة الأصلية والوجهة
 
-**المصدر:** الهيئة العامة للإحصاء السعودية  
-[https://www.stats.gov.sa](https://www.stats.gov.sa)  
-
-(يمكن استخدام نسخة مشابهة من البيانات المتوفرة في Kaggle أو من موقع الهيئة مباشرة)
+**المصدر:**  
+https://www.kaggle.com/datasets/mohammedomarhalawani/saudi-arabia-tourism-and-climate-data-20182023/data?utm_source=chatgpt.com
 
 ---
 
@@ -78,10 +76,4 @@
 - `README.md` : هذا الملف.
 
 ---
-
----
-
-## 8. الروابط
-- [رابط البيانات](https://www.stats.gov.sa)  
-- [رابط Kaggle (في حال تم استخدام نسخة)](https://www.kaggle.com)  
-- [رابط المنشور على لينكدإن](ضع الرابط هنا بعد النشر)  
+ 
